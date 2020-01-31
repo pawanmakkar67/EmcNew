@@ -1,0 +1,66 @@
+PODS:
+  - Alamofire (4.9.1)
+  - EHPlainAlert (1.2.7):
+    - UIColor-HexRGB
+  - IQKeyboardManagerSwift (6.5.4)
+  - ObjectMapper (3.5.1)
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
+  - SlackTextViewController (1.9.6)
+  - SSCustomTabbar (2.0.1)
+  - SVProgressHUD (2.2.6)
+  - TwilioChatClient (2.6.5)
+  - TwilioVideo (3.1.0)
+  - UIColor-HexRGB (1.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - EHPlainAlert
+  - IQKeyboardManagerSwift
+  - ObjectMapper
+  - SDWebImage
+  - SlackTextViewController
+  - SSCustomTabbar
+  - SVProgressHUD (from `https://github.com/SVProgressHUD/SVProgressHUD.git`)
+  - TwilioChatClient
+  - TwilioVideo (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - EHPlainAlert
+    - IQKeyboardManagerSwift
+    - ObjectMapper
+    - SDWebImage
+    - SlackTextViewController
+    - SSCustomTabbar
+    - TwilioChatClient
+    - TwilioVideo
+    - UIColor-HexRGB
+
+EXTERNAL SOURCES:
+  SVProgressHUD:
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+CHECKOUT OPTIONS:
+  SVProgressHUD:
+    :commit: 4fdf3fdc8703fd9915dae33fc1363c604a06b24e
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  EHPlainAlert: b02e88eee87c99275082f6d3689a65348eec7b1e
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+  SlackTextViewController: b854e62c1c156336bc4fd409c6ca79b5773e8f9d
+  SSCustomTabbar: 4ec050d50ada582ba6adf0ac5e086e5ac141df5a
+  SVProgressHUD: 6ed134667e9ebb2f33679e8273cd48fd3fa349e5
+  TwilioChatClient: c7d2cc9c7769f9f082bbac719c09192e62bf26cc
+  TwilioVideo: 29a68bf91236464fb9770bd1cde77514f0ef4ed5
+  UIColor-HexRGB: daccfa7e936af664369734a164b0309087d7f970
+
+PODFILE CHECKSUM: 5f4737f1226a6effefe0a409a8a2d7907c769aaf
+
+COCOAPODS: 1.8.4
